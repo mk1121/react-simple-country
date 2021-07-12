@@ -1,0 +1,8 @@
+.country {
+  display: grid;
+  place-items: center;
+}
+
+.country img {
+  height: 80px;
+}
